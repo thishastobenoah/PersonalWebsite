@@ -1,0 +1,39 @@
+h1  {
+    color:red;
+    text-align: center;
+    font-size: 60px;
+   
+}
+a {
+    color:white;
+    display: block;
+    background-color: gray;
+}
+p1{
+    position:relative;
+    left:50px;
+    display:block;
+    background-color: yellow;
+}
+p2{
+    position:relative;
+    left:50px;
+    display: block;
+    background-color: yellow;
+
+}
+p3{
+    position:relative;
+    left:50px;
+    display: block;
+    background-color: yellow;
+}
+p4{
+    position:relative;
+    left:50px;
+    background-color: yellow;
+
+}
+proj {
+    text-align: center;
+}
